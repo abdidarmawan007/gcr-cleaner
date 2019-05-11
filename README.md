@@ -14,3 +14,5 @@ EXAMPLE
   
   ### example
   ```bash gcrgc.sh asia.gcr.io/zeus-cloud/develop-golang 2019-04-01```
+
+script original create by Ahmet Alp Balkan
